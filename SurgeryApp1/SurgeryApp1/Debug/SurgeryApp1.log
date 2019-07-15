@@ -1,0 +1,5 @@
+﻿  SurgeryApp1.cpp
+c:\users\pingwarrior\documents\visual studio 2017\projects\surgeryapp1\surgeryapp1\surgeryapp1.cpp(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\pingwarrior\documents\visual studio 2017\projects\surgeryapp1\surgeryapp1\surgeryapp1.cpp(229): warning C4060: switch statement contains no 'case' or 'default' labels
+  SurgeryApp1.vcxproj -> C:\Users\Pingwarrior\Documents\Visual Studio 2017\Projects\SurgeryApp1\Debug\SurgeryApp1.exe
+  SurgeryApp1.vcxproj -> C:\Users\Pingwarrior\Documents\Visual Studio 2017\Projects\SurgeryApp1\Debug\SurgeryApp1.pdb (Partial PDB)

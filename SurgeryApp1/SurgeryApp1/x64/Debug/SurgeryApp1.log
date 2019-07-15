@@ -1,0 +1,9 @@
+﻿  SurgeryApp1.cpp
+  Generating Code...
+  Compiling...
+  BehaviourSource.cpp
+c:\users\pingwarrior\documents\visual studio 2017\projects\surgeryapp1\surgeryapp1\behavioursource.cpp(102): warning C4552: '-': operator has no effect; expected operator with side-effect
+c:\users\pingwarrior\documents\visual studio 2017\projects\surgeryapp1\surgeryapp1\behavioursource.cpp(180): warning C4552: '+': operator has no effect; expected operator with side-effect
+  Generating Code...
+  SurgeryApp1.vcxproj -> C:\Users\Pingwarrior\Documents\Visual Studio 2017\Projects\SurgeryApp1\x64\Debug\SurgeryApp1.exe
+  SurgeryApp1.vcxproj -> C:\Users\Pingwarrior\Documents\Visual Studio 2017\Projects\SurgeryApp1\x64\Debug\SurgeryApp1.pdb (Partial PDB)
